@@ -208,4 +208,9 @@ If you want maximum marks, I can also help you with:
 ✔ :contentReference[oaicite:0]{index=0}  
 ✔ :contentReference[oaicite:1]{index=1}  
 ✔ :contentReference[oaicite:2]{index=2}  
-✔ :contentReference[oaicite:3]{index=3}  
+✔ :contentReference[oaicite:3]{index=3}
+
+
+
+<img width="1153" height="563" alt="image" src="https://github.com/user-attachments/assets/f3c407c6-4e7d-4bed-83ed-5fdcfbb83a2a" />
+
