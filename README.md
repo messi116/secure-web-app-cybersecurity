@@ -212,5 +212,5 @@ If you want maximum marks, I can also help you with:
 
 
 
-<img width="1153" height="563" alt="image" src="https://github.com/user-attachments/assets/f3c407c6-4e7d-4bed-83ed-5fdcfbb83a2a" />
+
 
